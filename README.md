@@ -1,6 +1,6 @@
 # K_MODE_CLUSTERING_BANK_MARKETING
 
-a Bank wanted to group the customers of the store into different clusters based on their purchasing habits. 
+A Bank wanted to group the customers of the store into different clusters based on their purchasing habits. 
 
 Steps Involved :
 
